@@ -1,4 +1,4 @@
-ESERCIZIO
+ESERCIZIO<br>
 
 Un autobus di linea per il trasporto extraurbano dispone di una capienza di MAX posti
 complessivi, e consente un trasporto non superiore a MAX/2 persone alla volta a causa
@@ -12,9 +12,9 @@ trasporto autobus extraurbano.
 Si descriva lo schema di sincronizzazione adoperato e si implementi una soluzione in
 linguaggio C mediante il ricorso a thread e semafori per la programmazione concorrente.
 Infine, scrivere una relazione che spieghi la strategia risolutiva e i dettagli
-implementativi.
+implementativi.<br<br>
 
-Numero di fermate maggiore di 0
-Percentuale posti maggiore di 1 e minore di 101
-Posti totali impostato come massimo a 138 (quindi due piani)
-Numero di persone maggiore di 0
+Numero di fermate maggiore di 0<br>
+Percentuale posti maggiore di 1 e minore di 101<br>
+Posti totali impostato come massimo a 138 (quindi due piani)<br>
+Numero di persone maggiore di 0<br>
