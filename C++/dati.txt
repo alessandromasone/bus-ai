@@ -1,0 +1,4 @@
+Numero Fermate:10
+Percentuale posti:50
+Posti totali:138
+Numero persone:10000
