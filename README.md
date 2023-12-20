@@ -1,4 +1,4 @@
-# Bus-AI
+# Bus AI
 
 Bus-AI è un'applicazione concorrente sviluppata in linguaggio C per gestire il servizio di trasporto autobus extraurbano nel rispetto delle restrizioni anti-Covid19 e delle regole di accesso sincronizzato. L'applicazione utilizza thread e semafori per implementare la programmazione concorrente.
 
